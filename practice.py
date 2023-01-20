@@ -30,16 +30,6 @@ def greeter():
 def morning_message():
     print('hola bebe,how are you doing?')
     
-def sen_1():
-    print('nicole')
-    
-def sen_2():
-    print('is a')
-    
-def sen_3():
-    sen_1()
-    sen_2()
-    print('girl')
     
 
 
