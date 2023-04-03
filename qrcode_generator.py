@@ -33,5 +33,6 @@ except:
     psg.popup_error("Error: Unable to generate QR code.")
 finally:
     print('QR code generated successfully')
+    psg.popup('QR code generated!', image=img_file)
 
 window.close()
